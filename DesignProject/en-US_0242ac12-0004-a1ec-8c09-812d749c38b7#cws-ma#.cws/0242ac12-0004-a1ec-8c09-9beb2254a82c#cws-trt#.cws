@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0004-a1ec-8c09-9beb225c282c">
+	<DocumentID>0242ac12-0004-a1ec-8c09-9beb2254a82c</DocumentID>
+	<Name>0242ac12-0004-a1ec-8c09-9beb2254a82c</Name>
+	<Description>SOW Attached</Description>
+	<CreatedBy>Requestor</CreatedBy>
+	<CreationDate>2021-10-18T15:20:44.414</CreationDate>
+	<Notes/>
+	<Text>SOW Attached</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-9beb2243282c"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6a-84a8340eb350">
+	<DocumentID>0242ac12-0003-a1ec-8c6a-84a83404b350</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6a-84a83404b350</Name>
+	<Description>Organization</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T13:39:22.968</CreationDate>
+	<Notes/>
+	<Text>Organization</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0003-a1ec-8c6a-84a833f33350"
+		/>
+	</TextIdentifier>
+</TranslatedText>

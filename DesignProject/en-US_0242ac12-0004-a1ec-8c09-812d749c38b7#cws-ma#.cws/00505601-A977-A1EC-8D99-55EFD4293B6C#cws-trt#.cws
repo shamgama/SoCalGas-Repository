@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8D99-55EFD4297B6C">
+	<DocumentID>00505601-A977-A1EC-8D99-55EFD4293B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D99-55EFD4293B6C</Name>
+	<Description>Project Engineer</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-26T14:07:47.806</CreationDate>
+	<Notes/>
+	<Text>Project Engineer</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8D99-55EFD428BB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

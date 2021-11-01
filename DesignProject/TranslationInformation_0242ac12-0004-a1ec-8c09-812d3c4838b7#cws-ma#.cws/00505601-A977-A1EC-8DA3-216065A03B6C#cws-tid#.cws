@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-A977-A1EC-8DA3-216065A07B6C">
+	<DocumentID>00505601-A977-A1EC-8DA3-216065A03B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DA3-216065A03B6C</Name>
+	<Description>Add Response</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-26T18:46:27.182</CreationDate>
+	<Notes/>
+	<DefaultText>Add Response</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812cdca338b7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-A977-A1EC-8DA3-216065A0BB6C"
+		/>
+	</Translations>
+</TextIdentifier>

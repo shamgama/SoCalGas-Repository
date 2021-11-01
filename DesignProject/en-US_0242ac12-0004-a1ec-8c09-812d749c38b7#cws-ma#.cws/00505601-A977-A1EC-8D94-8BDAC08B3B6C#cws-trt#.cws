@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8D94-8BDAC08B7B6C">
+	<DocumentID>00505601-A977-A1EC-8D94-8BDAC08B3B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D94-8BDAC08B3B6C</Name>
+	<Description>Instance status</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-26T11:46:43.324</CreationDate>
+	<Notes/>
+	<Text>Instance status</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8D94-8BDAC08ABB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

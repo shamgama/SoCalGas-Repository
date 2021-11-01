@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6b-400500f1bdb5">
+	<DocumentID>0242ac12-0003-a1ec-8c6b-400500e7bdb5</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6b-400500e7bdb5</Name>
+	<Description>Decision</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T13:57:36.334</CreationDate>
+	<Notes/>
+	<Text>Decision</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0003-a1ec-8c6b-400500d63db5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

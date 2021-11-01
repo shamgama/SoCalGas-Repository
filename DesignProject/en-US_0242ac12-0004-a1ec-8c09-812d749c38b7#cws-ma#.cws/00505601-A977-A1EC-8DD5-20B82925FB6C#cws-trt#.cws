@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DD5-20B829263B6C">
+	<DocumentID>00505601-A977-A1EC-8DD5-20B82925FB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DD5-20B82925FB6C</Name>
+	<Description>1. SOW</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-27T20:15:57.227</CreationDate>
+	<Notes/>
+	<Text>1. SOW</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DD5-20B829257B6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

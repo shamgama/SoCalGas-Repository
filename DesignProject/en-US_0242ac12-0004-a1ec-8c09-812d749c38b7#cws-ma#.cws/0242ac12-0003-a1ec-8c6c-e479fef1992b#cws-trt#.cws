@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6c-e479fef9192b">
+	<DocumentID>0242ac12-0003-a1ec-8c6c-e479fef1992b</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6c-e479fef1992b</Name>
+	<Description>Root Folders</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T14:40:00.446</CreationDate>
+	<Notes/>
+	<Text>Root Folders</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0003-a1ec-8c6c-e479fee0192b"
+		/>
+	</TextIdentifier>
+</TranslatedText>

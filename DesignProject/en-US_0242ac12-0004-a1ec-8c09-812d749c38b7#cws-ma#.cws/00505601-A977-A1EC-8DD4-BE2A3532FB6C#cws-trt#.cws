@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DD4-BE2A35333B6C">
+	<DocumentID>00505601-A977-A1EC-8DD4-BE2A3532FB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DD4-BE2A3532FB6C</Name>
+	<Description>Follow Up Question</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-27T18:33:17.337</CreationDate>
+	<Notes/>
+	<Text>Follow Up Question</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DD4-BE2A35327B6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

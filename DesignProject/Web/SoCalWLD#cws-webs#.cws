@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="0242ac12-0004-a1ec-8c0a-911443aaa0c5">
+	<DocumentID>0242ac12-0004-a1ec-8c0a-911443a0a0c5</DocumentID>
+	<Name>SoCalWLD</Name>
+	<Description>SoCalWLD</Description>
+	<CreatedBy>Requestor</CreatedBy>
+	<CreationDate>2021-10-18T15:57:38.491</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-A977-A1EC-8DBD-DD5DBB283B6C"
+			path="DesignProject/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

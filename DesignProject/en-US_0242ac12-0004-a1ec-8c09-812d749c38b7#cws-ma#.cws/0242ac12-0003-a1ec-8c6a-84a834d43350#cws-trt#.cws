@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6a-84a834dbb350">
+	<DocumentID>0242ac12-0003-a1ec-8c6a-84a834d43350</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6a-84a834d43350</Name>
+	<Description>CPD Work Order</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T13:35:31.087</CreationDate>
+	<Notes/>
+	<Text>CPD Work Order</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0003-a1ec-8c6a-84a834c2b350"
+		/>
+	</TextIdentifier>
+</TranslatedText>

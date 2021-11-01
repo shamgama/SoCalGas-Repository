@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6a-84a835563350">
+	<DocumentID>0242ac12-0003-a1ec-8c6a-84a8354eb350</DocumentID>
+	<Name>CPDGroup</Name>
+	<Description>CPDGroup</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T13:34:54.988</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-7cac304f84a6"
+		/>
+	</BuildingBlock>
+</Category>

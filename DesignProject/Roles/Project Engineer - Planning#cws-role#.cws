@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00505601-A977-A1EC-8DA8-BAF2D779BB6C">
+	<DocumentID>00505601-A977-A1EC-8DA8-BAF2D7797B6C</DocumentID>
+	<Name>Project Engineer - Planning</Name>
+	<Description>Project Engineer - Planning</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-26T21:27:01.388</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="0242ac12-0003-a1ec-8c6a-f46d51e3992b"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

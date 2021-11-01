@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8D9F-56AE9E0ABB6C">
+	<DocumentID>00505601-A977-A1EC-8D9F-56AE9E0A7B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D9F-56AE9E0A7B6C</Name>
+	<Description>Business ID</Description>
+	<CreatedBy>Mitra Toosi</CreatedBy>
+	<CreationDate>2021-10-26T17:05:55.386</CreationDate>
+	<Notes/>
+	<Text>Business ID</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8D9F-56AE9E09FB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

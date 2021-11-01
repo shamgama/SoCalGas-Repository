@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6c-f6c31584a6c0">
+	<DocumentID>0242ac12-0003-a1ec-8c6c-f6c3157826c0</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6c-f6c3157826c0</Name>
+	<Description>Create Project Request</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T15:01:25.185</CreationDate>
+	<Notes/>
+	<DefaultText>Create Project Request</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812cdca338b7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0242ac12-0003-a1ec-8c6c-f6c3159126c0"
+		/>
+	</Translations>
+</TextIdentifier>

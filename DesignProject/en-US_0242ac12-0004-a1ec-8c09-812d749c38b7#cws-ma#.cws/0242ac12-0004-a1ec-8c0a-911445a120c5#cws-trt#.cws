@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0004-a1ec-8c0a-911445a8a0c5">
+	<DocumentID>0242ac12-0004-a1ec-8c0a-911445a120c5</DocumentID>
+	<Name>0242ac12-0004-a1ec-8c0a-911445a120c5</Name>
+	<Description>SoCal Gas</Description>
+	<CreatedBy>Requestor</CreatedBy>
+	<CreationDate>2021-10-18T15:54:15.919</CreationDate>
+	<Notes/>
+	<Text>SoCal Gas</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0004-a1ec-8c0a-9114458fa0c5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

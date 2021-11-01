@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DDC-314D2B7A3B6C">
+	<DocumentID>00505601-A977-A1EC-8DDC-314D2B79FB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DDC-314D2B79FB6C</Name>
+	<Description>2. Drawings</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-27T22:36:55.977</CreationDate>
+	<Notes/>
+	<Text>2. Drawings</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DDC-314D2B797B6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

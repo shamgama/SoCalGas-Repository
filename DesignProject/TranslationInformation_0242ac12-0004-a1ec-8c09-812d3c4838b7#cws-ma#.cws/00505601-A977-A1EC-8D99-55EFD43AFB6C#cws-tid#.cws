@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-A977-A1EC-8D99-55EFD43B3B6C">
+	<DocumentID>00505601-A977-A1EC-8D99-55EFD43AFB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D99-55EFD43AFB6C</Name>
+	<Description>Delete</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-26T14:04:14.016</CreationDate>
+	<Notes/>
+	<DefaultText>Delete</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812cdca338b7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-A977-A1EC-8D99-55EFD43B7B6C"
+		/>
+	</Translations>
+</TextIdentifier>

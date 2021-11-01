@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DD3-534844E5BB6C">
+	<DocumentID>00505601-A977-A1EC-8DD3-534844E57B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DD3-534844E57B6C</Name>
+	<Description>WOAOrCPDApplicable</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-27T18:06:48.036</CreationDate>
+	<Notes/>
+	<Text>WOAOrCPDApplicable</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DD3-534844E4FB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

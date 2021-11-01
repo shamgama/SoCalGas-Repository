@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8D9F-17DEED9EFB6C">
+	<DocumentID>00505601-A977-A1EC-8D9F-17DEED9EBB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D9F-17DEED9EBB6C</Name>
+	<Description>Assign_Project_Engineer</Description>
+	<CreatedBy>Mitra Toosi</CreatedBy>
+	<CreationDate>2021-10-26T16:51:54.137</CreationDate>
+	<Notes/>
+	<Text>Assign_Project_Engineer</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8D9F-17DEED9E3B6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

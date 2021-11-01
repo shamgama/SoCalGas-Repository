@@ -1,0 +1,30 @@
+
+<EntityNative
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.nativ.EntityNative"
+	typeVersion="06E7E4B3-21E5-4E89-A832-02EB7CCE511E"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6a-d4e666cfa676">
+	<DocumentID>0242ac12-0003-a1ec-8c6a-d4e666c32676</DocumentID>
+	<Name>User</Name>
+	<Description>User</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T13:43:28.006</CreationDate>
+	<Notes/>
+	<ExposeForReuse>true</ExposeForReuse>
+	<IsAbstract>false</IsAbstract>
+	<IsExternallyManaged>false</IsExternallyManaged>
+	<IsSingleton>false</IsSingleton>
+	<TableName></TableName>
+	<BuildingBlocks/>
+	<DBObject/>
+	<DisplayName/>
+	<Original>
+		<uri
+			id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"
+		/>
+	</Original>
+	<OwnedBuildingBlocks/>
+	<ParentRelationship/>
+	<Supertype/>
+	<TranslatableDisplayName/>
+</EntityNative>

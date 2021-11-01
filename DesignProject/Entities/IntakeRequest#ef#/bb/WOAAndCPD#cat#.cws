@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00505601-A977-A1EC-8DD4-2ECDDEAAFB6C">
+	<DocumentID>00505601-A977-A1EC-8DD4-2ECDDEAABB6C</DocumentID>
+	<Name>WOAAndCPD</Name>
+	<Description>WOAAndCPD</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-27T18:15:03.632</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-7cac304f84a6"
+		/>
+	</BuildingBlock>
+</Category>

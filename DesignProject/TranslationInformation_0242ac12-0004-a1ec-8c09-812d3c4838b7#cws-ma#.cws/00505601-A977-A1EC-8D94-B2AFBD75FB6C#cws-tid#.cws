@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-A977-A1EC-8D94-B2AFBD763B6C">
+	<DocumentID>00505601-A977-A1EC-8D94-B2AFBD75FB6C</DocumentID>
+	<Name>00505601-A977-A1EC-8D94-B2AFBD75FB6C</Name>
+	<Description>SoCalGas</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-26T11:51:41.424</CreationDate>
+	<Notes/>
+	<DefaultText>SoCalGas</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812cdca338b7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-A977-A1EC-8D94-B2AFBD767B6C"
+		/>
+	</Translations>
+</TextIdentifier>

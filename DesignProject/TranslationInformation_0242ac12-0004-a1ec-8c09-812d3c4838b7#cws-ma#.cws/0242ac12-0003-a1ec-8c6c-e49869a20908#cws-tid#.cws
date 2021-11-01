@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0242ac12-0003-a1ec-8c6c-e49869b88908">
+	<DocumentID>0242ac12-0003-a1ec-8c6c-e49869a20908</DocumentID>
+	<Name>0242ac12-0003-a1ec-8c6c-e49869a20908</Name>
+	<Description>4. Materials &amp; Equipment</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-10-20T14:42:05.512</CreationDate>
+	<Notes/>
+	<DefaultText>4. Materials &amp; Equipment</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812cdca338b7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0242ac12-0003-a1ec-8c6c-e49869c28908"
+		/>
+	</Translations>
+</TextIdentifier>

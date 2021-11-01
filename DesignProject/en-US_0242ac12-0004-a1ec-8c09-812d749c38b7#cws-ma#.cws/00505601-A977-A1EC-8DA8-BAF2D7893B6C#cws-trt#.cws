@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DA8-BAF2D7897B6C">
+	<DocumentID>00505601-A977-A1EC-8DA8-BAF2D7893B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DA8-BAF2D7893B6C</Name>
+	<Description>Team Lead Homepage</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-26T21:24:43.043</CreationDate>
+	<Notes/>
+	<Text>Team Lead Homepage</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DA8-BAF2D788BB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

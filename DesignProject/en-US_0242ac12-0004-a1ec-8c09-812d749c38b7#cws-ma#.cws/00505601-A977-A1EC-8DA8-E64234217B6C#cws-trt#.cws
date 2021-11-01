@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-A977-A1EC-8DA8-E6423421BB6C">
+	<DocumentID>00505601-A977-A1EC-8DA8-E64234217B6C</DocumentID>
+	<Name>00505601-A977-A1EC-8DA8-E64234217B6C</Name>
+	<Description>Project Engineer Homepage</Description>
+	<CreatedBy>PELead</CreatedBy>
+	<CreationDate>2021-10-26T21:53:39.73</CreationDate>
+	<Notes/>
+	<Text>Project Engineer Homepage</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ec-8c09-812d5d0bb8b7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-A977-A1EC-8DA8-E6423420FB6C"
+		/>
+	</TextIdentifier>
+</TranslatedText>
